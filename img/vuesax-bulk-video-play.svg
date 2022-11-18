@@ -1,0 +1,8 @@
+<svg id="vuesax_bulk_video-play" data-name="vuesax/bulk/video-play" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="video-play">
+    <path id="Vector" d="M40,11.62V28.38C40,35.66,35.66,40,28.38,40H11.62C4.34,40,0,35.66,0,28.38V11.62a14.9,14.9,0,0,1,.26-2.9C1.28,3.22,5.34.02,11.54,0H28.46c6.2.02,10.26,3.22,11.28,8.72A14.9,14.9,0,0,1,40,11.62Z" transform="translate(4 4)" fill="#5fad51" opacity="0.4"/>
+    <path id="Vector-2" data-name="Vector" d="M40,11.62v.1H0v-.1a14.9,14.9,0,0,1,.26-2.9H11.54V0h3V8.72H25.46V0h3V8.72H39.74A14.9,14.9,0,0,1,40,11.62Z" transform="translate(4 4)" fill="#5fad51"/>
+    <path id="Vector-3" data-name="Vector" d="M10.14,3.16,5.98.76A4.152,4.152,0,0,0,1.8.42,4.1,4.1,0,0,0,0,4.2V9a4.1,4.1,0,0,0,1.8,3.78,3.336,3.336,0,0,0,1.64.42,5.2,5.2,0,0,0,2.54-.76l4.16-2.4a4.1,4.1,0,0,0,2.38-3.46A4.114,4.114,0,0,0,10.14,3.16Z" transform="translate(18.74 22.28)" fill="#5fad51"/>
+    <path id="Vector-4" data-name="Vector" d="M0,0H48V48H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>
