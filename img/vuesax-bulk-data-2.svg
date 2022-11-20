@@ -1,0 +1,10 @@
+<svg id="vuesax_bulk_data-2" data-name="vuesax/bulk/data-2" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="data-2">
+    <path id="Vector" d="M0,0H30V30H0Z" fill="none" opacity="0"/>
+    <path id="Vector-2" data-name="Vector" d="M6.25,7.5H2.5A2.507,2.507,0,0,1,0,5V2.5A2.507,2.507,0,0,1,2.5,0H6.25a2.507,2.507,0,0,1,2.5,2.5V5A2.507,2.507,0,0,1,6.25,7.5Z" transform="translate(2.5 2.5)" fill="#5fad51"/>
+    <path id="Vector-3" data-name="Vector" d="M6,5H1.5A1.5,1.5,0,0,1,0,3.5v-2A1.5,1.5,0,0,1,1.5,0H6A1.5,1.5,0,0,1,7.5,1.5v2A1.5,1.5,0,0,1,6,5Z" transform="translate(20 3.75)" fill="#5fad51"/>
+    <path id="Vector-4" data-name="Vector" d="M6,5H1.5A1.5,1.5,0,0,1,0,3.5v-2A1.5,1.5,0,0,1,1.5,0H6A1.5,1.5,0,0,1,7.5,1.5v2A1.5,1.5,0,0,1,6,5Z" transform="translate(20 13.125)" fill="#5fad51"/>
+    <path id="Vector-5" data-name="Vector" d="M9.688,11.25a.938.938,0,0,0,0-1.875H6.25v-7.5H9.688a.944.944,0,0,0,.938-.938A.944.944,0,0,0,9.688,0H.938A.944.944,0,0,0,0,.938a.944.944,0,0,0,.938.938H4.375V17.188a3.436,3.436,0,0,0,3.438,3.438H9.688a.938.938,0,0,0,0-1.875H7.813A1.563,1.563,0,0,1,6.25,17.188V11.25Z" transform="translate(10.313 5.313)" fill="#5fad51" opacity="0.37"/>
+    <path id="Vector-6" data-name="Vector" d="M6,5H1.5A1.5,1.5,0,0,1,0,3.5v-2A1.5,1.5,0,0,1,1.5,0H6A1.5,1.5,0,0,1,7.5,1.5v2A1.5,1.5,0,0,1,6,5Z" transform="translate(20 22.5)" fill="#5fad51"/>
+  </g>
+</svg>
